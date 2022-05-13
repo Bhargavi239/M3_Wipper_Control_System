@@ -5,3 +5,4 @@
 [![Analysis](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/Analysis.yml)
 [![Bulid CI - windows](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/windows.yml/badge.svg)](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/windows.yml)
 [![Code Quality - Cppcheck](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/c-cpp.yml)
+[![Build_CI - Linux](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/linux.yml/badge.svg)](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/linux.yml)
