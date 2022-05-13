@@ -4,3 +4,4 @@
 ![codiga](https://api.codiga.io/project/33359/status/svg)
 [![Analysis](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/Analysis.yml)
 [![Bulid CI - windows](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/windows.yml/badge.svg)](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/windows.yml)
+[![Code Quality - Cppcheck](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bhargavi239/M3_Wipper_Control_System/actions/workflows/c-cpp.yml)
