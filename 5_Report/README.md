@@ -29,3 +29,8 @@ The chart below shows the SWOT analysis of the project designed-
  ![Screenshot (1334)](https://user-images.githubusercontent.com/68335075/167800231-e25232d6-e6cb-4835-9511-7938176fd2f8.png)
  ## Low Level Requirements
  ![Screenshot (1335)](https://user-images.githubusercontent.com/68335075/167800487-0137f64d-19e7-4816-8a29-9f3f5778a28b.png)
+ ![blockdiagram_wipersystem](https://user-images.githubusercontent.com/101325628/168264818-a1baf6a8-68f3-46dc-a33b-ef61d53a12ae.png)
+![flowchart_wipersystem](https://user-images.githubusercontent.com/101325628/168264846-3ffe23e8-57f3-4a5b-930f-9f2b7019f076.png)
+![State Transition Diagram](https://user-images.githubusercontent.com/101325628/168264867-afe1168d-49ea-4c42-85a0-47ba708081bc.png)
+![UML Deployment Diagram (1)](https://user-images.githubusercontent.com/101325628/168264900-737f68b0-83a8-4e5f-8659-2ed6c2243b2c.png)
+
